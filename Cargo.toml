@@ -1,6 +1,7 @@
 [workspace]
 members = [
-    "server",
+    "api",
     "client",
-    "app"
+    "csr",
+    "ssr"
 ]

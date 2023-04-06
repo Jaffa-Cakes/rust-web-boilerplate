@@ -3,11 +3,5 @@ name = "client"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-app = { path = "../app" }
-
-yew = { version = "0.20", features = ["hydration"] }
-wasm-logger = "0.2"
-log = "0.4"
+yew = "0.20"

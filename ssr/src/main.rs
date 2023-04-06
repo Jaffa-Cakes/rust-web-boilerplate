@@ -39,7 +39,7 @@ async fn main() -> std::io::Result<()> {
 //////////////////////////////
 
 async fn render() -> String {
-    let renderer = yew::ServerRenderer::<app::App>::new();
+    let renderer = yew::ServerRenderer::<client::App>::new();
 
     let generated = generate();
 
