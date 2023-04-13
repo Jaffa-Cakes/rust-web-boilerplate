@@ -17,6 +17,11 @@ This boilerplate set-up comes preconfigured using (items in italics are planned 
   - *CSR Container*
 - *Tailwind*
 
+## Prerequisites
+
+- [Trunk](https://trunkrs.dev/#install) must be installed on your system for WASM compilation.
+- [Protoc](https://github.com/protocolbuffers/protobuf#protocol-compiler-installation) must be installed on your system for Protobuf compilation.
+
 ## How to Use
 
 Simply use this repository as a template for your next project on GitHub or clone it yourself.
