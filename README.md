@@ -10,3 +10,4 @@ This boilerplate set-up comes preconfigured using:
   - Preconfigured with Yew
 - Diesel
 - Docker
+- Tailwind
